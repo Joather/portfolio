@@ -154,3 +154,8 @@ body {
         width: 70%;
     }
 }
+
+.apresentacao_link-icon--default{
+    width: 30px;
+    fill: #93E6B0;
+}
